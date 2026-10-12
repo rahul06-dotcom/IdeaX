@@ -72,12 +72,12 @@ ClassClear aims to reduce communication barriers in classrooms by making teacher
 
 Team[IDEAX]
 
---Jhoshitha.V.L(Frontend Developer)
---Yogaratchanaa.N.K(Speech Recognition Developer)
---Kamati Lokesh(OCR Developer)
---Harish Kumar.S(Accessibility Interface Developer)
---Rahul.K(Assistive Technology Developer)
---Praveen.U(Accessibility and Integration Developer)
+--Jhoshitha.V.L
+--Yogaratchanaa.N.K
+--Kamati Lokesh
+--Harish Kumar.S
+--Rahul.K
+--Praveen.U
 
 Project Theme
 
