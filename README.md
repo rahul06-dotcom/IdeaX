@@ -157,12 +157,12 @@ A real campus pilot would need verified feature information, confirmed alternati
 
 | Member | Responsibility |
 |---|---|
-| [Name 1] | HTML, content and page structure |
-| [Name 2] | CSS, mobile layout and display design |
-| [Name 3] | Sample data and planner rules |
-| [Name 4] | JavaScript interactions and integration |
-| [Name 5] | Testing and user feedback |
-| [Name 6] | Research, documentation and presentation |
+| Jhoshitha.V.L | HTML, content and page structure |
+| Yogaratchanaa.N.K | CSS, mobile layout and display design |
+| Kamati Lokesh | Sample data and planner rules |
+| Harish Kumar.S | JavaScript interactions and integration |
+| Rahul.K | Testing and user feedback |
+| Praveen.U | Research, documentation and presentation |
 
 ##  Learning & Credits
 
